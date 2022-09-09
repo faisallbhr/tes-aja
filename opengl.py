@@ -40,3 +40,4 @@ glutIdleFunc(showScreen)
 glutMainLoop()
 
 print (" hallo cowok ")
+print (" halo dekk ")
