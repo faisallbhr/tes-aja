@@ -38,3 +38,5 @@ wind = glutCreateWindow("OpenGL Coding Practice")
 glutDisplayFunc(showScreen)
 glutIdleFunc(showScreen)
 glutMainLoop()
+
+print (" hallo cowok ")
